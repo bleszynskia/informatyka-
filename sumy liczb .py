@@ -1,13 +1,14 @@
 N = 8
 
-kwota= 1000,00
+kwota= 1000
 
-rata = kwota / N
+rata= kwota/N
 
 konto = 0,00 
 
+
 for i in range(N):
-     konto = konto + rata
+    konto= konto+rata
 
 
 print()

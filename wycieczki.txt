@@ -1,0 +1,5 @@
+x73 francuski
+d32 angielski
+e54 szwedzki
+r21 rosyjski
+h65 hiszpański
